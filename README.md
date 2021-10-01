@@ -1,1 +1,1 @@
-java -jar SeatArrangement.jar "[ [3,2], [4,3], [2,3], [3,5] ]" 30
+java -jar SeatArrangement-0.0.1-SNAPSHOT.jar "[ [3,2], [4,3], [2,3], [3,5] ]" 30
